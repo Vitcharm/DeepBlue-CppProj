@@ -1,3 +1,9 @@
+/**
+ * do_quiz
+ *
+ * @author Vitcharm
+ * @since 2022-03-01
+ */
 #include <iostream>
 #include "quiz_generator.h"
 int main() {
